@@ -1,2 +1,2 @@
 # latihan-branch
-Latihan Branch Dicoding
+Ini buat testing bikin branch yah
